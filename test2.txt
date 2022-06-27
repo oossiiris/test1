@@ -1,0 +1,2 @@
+Hello from text file 2.
+Content in text file 2.txt
